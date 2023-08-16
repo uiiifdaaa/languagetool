@@ -10,7 +10,7 @@ It finds many errors that a simple spell checker cannot detect.
 * [How to use our public server via HTTP](https://dev.languagetool.org/public-http-api)
 * [How to use LanguageTool from Java](https://dev.languagetool.org/java-api) ([Javadoc](https://languagetool.org/development/api/index.html?org/languagetool/JLanguageTool.html))
 
-For more information, please see our homepage at https://languagetool.org,
+
 [this README](https://github.com/languagetool-org/languagetool/blob/master/languagetool-standalone/README.md),
 and [CHANGES](https://github.com/languagetool-org/languagetool/blob/master/languagetool-standalone/CHANGES.md).
 
