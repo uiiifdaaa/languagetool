@@ -5,7 +5,6 @@ Portuguese, Polish, Dutch, and [more than 20 other languages](https://languageto
 It finds many errors that a simple spell checker cannot detect.
 (https://dev.languagetool.org/http-server)
 * [HTTP API documentation](https://languagetool.org/http-api/swagger-ui/#!/default/post_check)
-* [How to use our public server via HTTP](https://dev.languagetool.org/public-http-api)
 * [How to use LanguageTool from Java](https://dev.languagetool.org/java-api) ([Javadoc](https://languagetool.org/development/api/index.html?org/languagetool/JLanguageTool.html))
 
 
