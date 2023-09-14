@@ -11,8 +11,6 @@ It finds many errors that a simple spell checker cannot detect.
 [this README](https://github.com/languagetool-org/languagetool/blob/master/languagetool-standalone/README.md),
 and [CHANGES](https://github.com/languagetool-org/languagetool/blob/master/languagetool-standalone/CHANGES.md).
 
-The LanguageTool core (this repo) is freely available under the LGPL 2.1 or later.
-
 ## Docker
 
 Try one of the following projects for a community-contributed Docker file:
