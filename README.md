@@ -9,7 +9,7 @@ It finds many errors that a simple spell checker cannot detect.
 
 
 [this README](https://github.com/languagetool-org/languagetool/blob/master/languagetool-standalone/README.md),
-and [CHANGES](https://github.com/languagetool-org/languagetool/blob/master/languagetool-standalone/CHANGES.md).
+and org/languagetool/blob/master/languagetool-standalone/CHANGES.md).
 
 ## Docker
 
